@@ -10,8 +10,7 @@ from langchain.chains import ConversationalRetrievalChain
 from htmlTemplates import css, bot_template, user_template
 from langchain.llms import HuggingFaceHub
 
-OPENAI_API_KEY="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"
-HUGGINGFACEHUB_API_TOKEN="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"
+
 
 
 
